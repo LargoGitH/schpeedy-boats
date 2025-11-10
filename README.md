@@ -1,4 +1,4 @@
-All credits for creating this mod go to @dr0idb0t
+All credits for creating this mod go to [@dr0idb0t](https://github.com/dr0idb0t)
 
 # Schpeedy Boats
 
